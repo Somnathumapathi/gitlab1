@@ -1,6 +1,9 @@
+def add(a,b):
+     print(a+b)
+
 a=int(input())
 b=int(input())
-add()
+add(a,b)
 sub()
 mul()
 div()
